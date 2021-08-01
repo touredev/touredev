@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeanmtoure/) [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/touredev/)
 
-A Software Engineer, from **Abidjan**, **Côte d'Ivoire**, with more than 5 years of successful experience in Web development. I work most the time with technologies listed in the **toolbox** below.
+A Software Engineer, from **Abidjan**, **Côte d'Ivoire**, with more than 6 years of successful experience in Web development. I work most the time with technologies listed in the **toolbox** below.
 
 Motivated to collaborate and contribute to new projects. Feel free to contact me by email.
 
